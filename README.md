@@ -17,6 +17,9 @@ This project is a Streamlit-based application that leverages the Google Generati
   Provides friendly messages for common issues such as missing query input or no uploaded files.
 
 ## Demo
+![](https://github.com/Carnage203/AI-Video-Analyzer/blob/82a265507d9afc796161be9d6f7ebda4e8dc26b9/home%20page.png)
+![](https://github.com/Carnage203/AI-Video-Analyzer/blob/82a265507d9afc796161be9d6f7ebda4e8dc26b9/response1.png)
+![](https://github.com/Carnage203/AI-Video-Analyzer/blob/82a265507d9afc796161be9d6f7ebda4e8dc26b9/response2.png)
 
 ### Prerequisites
 
