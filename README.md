@@ -21,12 +21,19 @@ This project is a Streamlit-based application that leverages the Google Generati
 ![](https://github.com/Carnage203/AI-Video-Analyzer/blob/82a265507d9afc796161be9d6f7ebda4e8dc26b9/response1.png)
 ![](https://github.com/Carnage203/AI-Video-Analyzer/blob/82a265507d9afc796161be9d6f7ebda4e8dc26b9/response2.png)
 
-### Prerequisites
+## Tech Stack
 
-Before you begin, ensure you have met the following requirements:
-- **Python 3.7+**  
-- **Google Generative AI API Key:**  
-  You need a valid API key for Google Generative AI. Store your API key in a Python file named `constants.py` in the same directory, with a variable named `GOOGLE_API_KEY`.
+- **Programming Language:** Python 3.10+
+- **Frontend:** Streamlit
+- **Backend / APIs:** 
+  - [Google Generative AI API](https://cloud.google.com/generative-ai)
+  - gRPC (used internally by the API client)
+- **Utilities & Libraries:**
+  - `google-generativeai` (for interfacing with Google Generative AI)
+  - `streamlit` (for building the interactive UI)
+  - Standard Python libraries (`os`, `time`)
+- **Deployment:**  
+  The app can be run locally using Streamlit, and it can be deployed to any platform supporting Python (e.g., Heroku, AWS, etc.)
 
 ### Installation
 
